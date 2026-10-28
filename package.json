@@ -1,0 +1,8 @@
+{
+  "name": "nova-ai-chatbot",
+  "version": "1.0.0",
+  "description": "Nova AI – a modern AI chatbot (FYP) built with vanilla JS and a Vercel Edge Function",
+  "private": true,
+  "scripts": { "dev": "vercel dev" },
+  "license": "MIT"
+}
